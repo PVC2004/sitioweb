@@ -1,0 +1,110 @@
+body{
+background-color:#abebc6;
+}
+h1{
+color:brown;
+font-weight:bold;
+font-family:"goudy stout";
+font-size:90px;
+text-align:center;
+}
+IMG.imgcenter{
+display:block;
+margin-left:auto;
+margin-right:auto;
+border:none;
+}
+h4{
+color:brown;
+font-family:"Harrington";
+font-size:40px;
+text-align:center;
+}
+h2{
+	color:blue;
+	font-family:"ARIAL";
+	font-size:60px;
+	text-align:LEFT;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
+video{
+	width:800px;
+	height:640px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+hr{
+	height:10px;
+	background-color:brown;
+	width:90%;
+	border-color:black;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+ol{
+	font-family:"comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
+table{
+	border-collapse:collapse;
+}
+td, th{
+	border:5px solid brown;
+	font-family:"Harrington"
+	font-size:60px;
+}
+caption{
+	font-family:"Harrington"
+	font-size:65px;
+	text-align:justify;
+}
+table{
+	border-collapse:collapse;
+}
+td{
+	border:5px solid brown;
+	font-family:"harrington"
+	font-size:60px;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+ol{
+	font-family:"comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
